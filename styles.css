@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#animal-card {
+  border: 1px solid #e1e2e3;
+  width: 320px;
+  padding: 10px;
+}
+
+#animal-card img {
+  border-radius: 4px;
+  width: 300px;
+  margin: 10px auto;
+  display: block;
+}
+
+#animal-information-box {
+  border: 1px solid #e1e2e3;
+  padding: 2px 5px;
+}
+
+#animal-information-box li {
+  list-style: none;
+}
+
+#animal-information-box ul {
+  padding: 0;
+}
+
+.animal-fact {
+  font-style: italic;
+}
+
+.animal-details-label {
+  font-weight: bold;
+}
